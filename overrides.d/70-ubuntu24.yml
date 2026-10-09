@@ -1,0 +1,8 @@
+- pkg_set:github:/rock-core/package_set.git:
+  branch: "2404"
+- pkg_set:github:/rock-core/rock-package_set.git:
+  branch: ubuntu24
+- pkg_set:github:/rock-gazebo/package_set.git:
+  branch: add_gz_repo_ubuntu24
+- tools/metaruby:
+  branch: no_webview
